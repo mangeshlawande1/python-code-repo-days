@@ -1,0 +1,3 @@
+Python is amazing. Coding in Python is fun, quick, and powerful.
+Functions make code reusable.
+Files make data permanent.

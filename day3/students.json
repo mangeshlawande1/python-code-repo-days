@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Alice Smith",
+        "roll_number": 101,
+        "marks": 92.5
+    },
+    {
+        "name": "Bob Jones",
+        "roll_number": 102,
+        "marks": 78.0
+    },
+    {
+        "name": "Charlie Day",
+        "roll_number": 103,
+        "marks": 88.5
+    }
+]
